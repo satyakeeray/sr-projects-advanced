@@ -143,13 +143,13 @@ $shortcode .= ']';
         <p>Create this file in your theme:</p>
 
         <div class="srpa-shortcode-box">
-            <code>wp-content/<?php echo $theme_name; ?>/your-theme/sr-project/archive-sr_project.php</code>
+            <code>wp-content/themes/<?php echo $theme_name; ?>/sr-project/archive-sr_project.php</code>
         </div>
 
         <h4>To Override Single Template:</h4>
 
         <div class="srpa-shortcode-box">
-            <code>wp-content/<?php echo $theme_name; ?>/your-theme/sr-project/single-sr_project.php</code>
+            <code>wp-content/themes/<?php echo $theme_name; ?>/sr-project/single-sr_project.php</code>
         </div>
 
         <p>
