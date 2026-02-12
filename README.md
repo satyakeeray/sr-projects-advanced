@@ -1,10 +1,3 @@
-Here is a complete `README.md` file for your plugin.
-
-You can copy this into a file named:
-
-```
-sr-projects-advanced/README.md
-```
 
 ---
 
